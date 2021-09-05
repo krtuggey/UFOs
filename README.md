@@ -9,7 +9,7 @@ After developing a working webpage to share information about UFO sightings, it'
 - Using: Visual Studio Code 1.58, JavaScript, HTML, CSS
 
 #### Results
-The first version of the webpage offered one filter option by date. Now, there are five criteria available to the user (fig. 1). Without any filters applied, the complete data table is presented.
+The first version of the webpage offered one filter option by date. Now, there are five criteria available to the user. Without any filters applied, the complete data table is presented.
 
 ![Unfiltered table](https://user-images.githubusercontent.com/84139177/132138557-d2c09fa8-16e3-4e5c-ac4e-636df934422e.png)
 
